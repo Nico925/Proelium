@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1348505320085036}
+  m_IsPrefabParent: 1
+--- !u!1 &1348505320085036
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4877055973699002}
+  - component: {fileID: 114182705895524758}
+  m_Layer: 0
+  m_Name: LevelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4877055973699002
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1348505320085036}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114182705895524758
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1348505320085036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4e526c674e183e4594ff10eed179dd1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpawnerMngPrefab: {fileID: 1426782863579316, guid: 6a5555b5239d1fd42ab0baa8e7b1f9ff,
+    type: 2}
+  AvatarSpwnPrefab: {fileID: 1908843494005796, guid: 0ff4a992816176340b31bf27c66057d5,
+    type: 2}
+  RopeMngPrefab: {fileID: 1445940252311144, guid: 0794285e6c4bb864fa11d1f9f452b63a,
+    type: 2}
+  UpgradePointsManagerPrefab: {fileID: 1626979337095788, guid: 7431b5c69261e3a49a4f393b347c2678,
+    type: 2}
+  PowerUpManagerPrefab: {fileID: 1974875444530600, guid: a643f6f472a5f5d4fb6dac55b8c2104b,
+    type: 2}
+  SpawnerMng: {fileID: 0}
+  RopeMng: {fileID: 0}
+  AvatarSpwn: {fileID: 0}
+  UpgradePointsMng: {fileID: 0}
+  PowerUpManager: {fileID: 0}
+  CurrentLevel: {fileID: 0}
+  gameplaySM: {fileID: 0}
+  Arena: {fileID: 0}
+  Core: {fileID: 0}
+  EndLevelPanelLableText: 
+  levelOptions:
+    MaxRound: 0
+    AddPoints: 0
+    SubPoints: 0
+    PointsToWin: 0
+  RoundNumber: 0
+  IsGamePaused: 0
+  PinsContainer: {fileID: 0}

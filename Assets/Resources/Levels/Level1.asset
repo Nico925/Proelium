@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd0ef9c4d75af4b4fb57fa39733f9fec, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  LevelNumber: 1
+  LevelName: Arena1
+  ArenaPrefab: {fileID: 1581467817650562, guid: 7ea2bcd6e0fcc5341a5f7624e386a912,
+    type: 2}
+  LevelOptions:
+    MaxRound: 4
+    AddPoints: 1
+    SubPoints: 0
+    PointsToWin: 5
+  MinPowerUpRatio: 5
+  MaxPowerUpRatio: 15
+  PowerUpOptions:
+    Percentages:
+    - PowerUpID: 0
+      Percentage: 5
+    - PowerUpID: 1
+      Percentage: 20
+    - PowerUpID: 2
+      Percentage: 30
+    - PowerUpID: 3
+      Percentage: 35
+    - PowerUpID: 4
+      Percentage: 10
+  ArrowsSpawner:
+    SpawnerPrefab: {fileID: 0}
+    ArrowPrefab: {fileID: 0}
+  BlackHoleSpawner:
+    SpawnerPrefab: {fileID: 0}
+    minRandomX: 0
+    maxRandomX: 0
+    minRandomZ: 0
+    maxRandomZ: 0
+    BlackHolePrefab: {fileID: 0}
+    BlackHoleToSpawn: 3
+    TimerToSpawn: 10
+  ExternalElementSpawner:
+    SpawnerPrefab: {fileID: 1637366666661558, guid: 6389b3edb560e9741a9f9965a3fdc63f,
+      type: 2}
+    ExternalAgent:
+    - {fileID: 1842433816405484, guid: 7c88d28d0bb7bed4da4b6aee0e1a6320, type: 2}
+    - {fileID: 1842433816405484, guid: f39e5bf2c7652084a80191c841014072, type: 2}
+    MinTime: 10
+    MaxTime: 20
+    AngularSpeed: 6789
+    KamikazeRatioMultiplayer: 20
+  TurretSpawner:
+    SpawnerPrefab: {fileID: 0}
+    Turrent: {fileID: 0}
+    MaxSpawnTurrent: 5
+  WaveSpawner:
+    SpawnerPrefab: {fileID: 0}
+    WavePrefab: {fileID: 0}
+    MinTime: 20
+    MaxTime: 50

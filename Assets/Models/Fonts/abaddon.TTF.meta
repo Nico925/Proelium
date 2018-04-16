@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 205afb780b3b26248814b025130b94de
+timeCreated: 1491836322
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Abaddon?
+  fontNames:
+  - Abaddon?
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e29967a51552c7245ab2cf367eabd491
+timeCreated: 1493377565
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - endRoundUI: {instanceID: 0}
+  - gameUIController: {instanceID: 0}
+  - canvasMenu: {instanceID: 0}
+  - canvasLevelSelection: {instanceID: 0}
+  - canvasGameMenu: {instanceID: 0}
+  - Counter: {instanceID: 0}
+  - pauseMenuController: {instanceID: 0}
+  - AvatarUI: {fileID: 1136871767432164, guid: e19814724aa01e344af5bfd621cd6ad8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

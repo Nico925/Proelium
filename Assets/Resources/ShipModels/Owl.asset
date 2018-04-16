@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9681a26f2f551234a8c74f5a6ef49a16, type: 3}
+  m_Name: Owl
+  m_EditorClassIdentifier: 
+  DataName: Owl
+  IsPurchased: 1
+  Price: 20
+  BasePrefab: {fileID: 114084304304996402, guid: 1e454b20c5c81a94c83dfadd7cbda89e,
+    type: 2}
+  ModelPrefab: {fileID: 100000, guid: 911b85e7dc8efd24e9be4f6028221342, type: 3}
+  ColorSets:
+  - {fileID: 11400000, guid: c0d8480790832cd4fbf3a963a4cded1c, type: 2}
+  - {fileID: 11400000, guid: 4f7d104e8296c744cae0d117fe6d4fee, type: 2}
+  - {fileID: 11400000, guid: e2295d64592051f41bda98a63254a74f, type: 2}
+  - {fileID: 11400000, guid: 261924e405f932945a0c1bb2e7a467ad, type: 2}
+  - {fileID: 11400000, guid: 887514b0dce2cd24ea162fc71cac5469, type: 2}
+  - {fileID: 11400000, guid: 00387c7185e7a4d419217c93c5643965, type: 2}
+  - {fileID: 11400000, guid: 31650ded5974cc14d8c53e034b48171b, type: 2}
+  - {fileID: 11400000, guid: eb39c0c34e587a045ba43e8cc4994fb2, type: 2}
+  ShipAudioSet: {fileID: 11400000, guid: 01ecebd239ea47542819700ef9a59ae0, type: 2}
+  shipConfig:
+    MaxLife: 15
+    FireRate: 0.3
+    movementConfig:
+      RotationSpeed: 10
+      MovmentSpeed: 3000
+    shooterConfig:
+      ShooterBaseConfig:
+        ProjectilePrefab: {fileID: 1501574659777150, guid: c24e5fd438cd1d64c8ae981b5a429fe1,
+          type: 2}
+        LifeTime: 0.3
+        BulletSpeed: 150
+      DistanceFromShipOrigin: 3
+      ProjectileDamage: 3
+      AddedAmmo: 15
+      MaxAmmo: 90
+    placePinConfig:
+      PinPrefab: {fileID: 1844589482665234, guid: ea63e453c63a17240a1ecd1ef2fe0917,
+        type: 2}
+      CoolDownTime: 4
+      DistanceFromShipOrigin: 4.5
+  ropeConfig:
+    MaxLength: 160
+    DensityOfFragments: 0.2
+  ColorSetIndex: 0
+  avatarUpgradesConfig:
+    ShootingDistanceUpgrade:
+    - 0
+    - 0.19
+    - 0.31
+    - 0.43
+    - 0.55
+    PowerUpDurationUpgrade:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    PinRegenUpgrade:
+    - 0
+    - 0.5
+    - 1
+    - 1.5
+    - 2

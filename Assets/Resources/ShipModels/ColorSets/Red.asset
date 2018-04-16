@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49da9a758077c124d9645884117fa0ed, type: 3}
+  m_Name: Red
+  m_EditorClassIdentifier: 
+  ColorName: Red
+  IsPurchased: 0
+  Price: 5
+  ShipMaterialMain: {fileID: 2100000, guid: b648e4291d8e71f4985fb25fb1c6bc9d, type: 2}
+  RopeMaterial: {fileID: 2100000, guid: bc23e53e6960b8d4da0cdb3bef4c8e20, type: 2}
+  PinMaterial: {fileID: 2100000, guid: 7e66d2dd4379b99488fefbad71e752a5, type: 2}
+  HudColor: {fileID: 21300000, guid: 45242117e89798142b9b18932725b710, type: 3}

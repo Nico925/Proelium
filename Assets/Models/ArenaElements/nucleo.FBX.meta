@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: aab70f54697a6324f871d19558586133
+timeCreated: 1489422519
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Object001
+    100004: Object002
+    100006: Object003
+    100008: Sphere001
+    100010: Sphere002
+    100012: Sphere003
+    100014: n_LP
+    100016: Nucleo
+    100018: Object004
+    100020: Object005
+    100022: Object006
+    400000: //RootNode
+    400002: Object001
+    400004: Object002
+    400006: Object003
+    400008: Sphere001
+    400010: Sphere002
+    400012: Sphere003
+    400014: n_LP
+    400016: Nucleo
+    400018: Object004
+    400020: Object005
+    400022: Object006
+    2300000: Object001
+    2300002: Object002
+    2300004: Object003
+    2300006: Sphere001
+    2300008: Sphere002
+    2300010: Sphere003
+    2300012: n_LP
+    2300014: Nucleo
+    2300016: Object004
+    2300018: Object005
+    2300020: Object006
+    3300000: Object001
+    3300002: Object002
+    3300004: Object003
+    3300006: Sphere001
+    3300008: Sphere002
+    3300010: Sphere003
+    3300012: n_LP
+    3300014: Nucleo
+    3300016: Object004
+    3300018: Object005
+    3300020: Object006
+    4300000: Sphere001
+    4300002: Object002
+    4300004: Object003
+    4300006: Sphere002
+    4300008: Sphere003
+    4300010: Object001
+    4300012: n_LP
+    4300014: Nucleo
+    4300016: Object004
+    4300018: Object005
+    4300020: Object006
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 150
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Object001
+        weight: 1
+      - path: Object002
+        weight: 1
+      - path: Object003
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere003
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

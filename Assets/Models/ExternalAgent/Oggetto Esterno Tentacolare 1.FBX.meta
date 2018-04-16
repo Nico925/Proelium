@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: e7f18b7b1d4a75b4981633f749e980bb
+timeCreated: 1490625575
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone073
+    100002: Bone074
+    100004: Bone075
+    100006: Bone076
+    100008: Bone077
+    100010: Bone078
+    100012: Bone079
+    100014: Bone080
+    100016: Bone081
+    100018: Bone082
+    100020: Bone083
+    100022: Bone084
+    100024: Bone085
+    100026: Bone086
+    100028: Bone087
+    100030: Bone088
+    100032: Bone089
+    100034: Bone090
+    100036: Bone091
+    100038: Bone092
+    100040: Bone093
+    100042: Bone094
+    100044: Bone095
+    100046: Bone096
+    100048: Bone097
+    100050: Bone098
+    100052: Bone099
+    100054: Bone100
+    100056: Bone101
+    100058: Bone102
+    100060: Bone103
+    100062: Bone104
+    100064: Bone105
+    100066: Bone106
+    100068: Bone107
+    100070: Bone108
+    100072: Bone109
+    100074: Bone110
+    100076: Bone111
+    100078: Bone112
+    100080: Bone113
+    100082: Bone114
+    100084: Bone115
+    100086: Bone116
+    100088: Bone117
+    100090: Bone118
+    100092: Bone119
+    100094: Bone120
+    100096: Line004
+    100098: Line005
+    100100: Line006
+    100102: //RootNode
+    100104: Sphere001
+    100106: rock2_LP
+    400000: Bone073
+    400002: Bone074
+    400004: Bone075
+    400006: Bone076
+    400008: Bone077
+    400010: Bone078
+    400012: Bone079
+    400014: Bone080
+    400016: Bone081
+    400018: Bone082
+    400020: Bone083
+    400022: Bone084
+    400024: Bone085
+    400026: Bone086
+    400028: Bone087
+    400030: Bone088
+    400032: Bone089
+    400034: Bone090
+    400036: Bone091
+    400038: Bone092
+    400040: Bone093
+    400042: Bone094
+    400044: Bone095
+    400046: Bone096
+    400048: Bone097
+    400050: Bone098
+    400052: Bone099
+    400054: Bone100
+    400056: Bone101
+    400058: Bone102
+    400060: Bone103
+    400062: Bone104
+    400064: Bone105
+    400066: Bone106
+    400068: Bone107
+    400070: Bone108
+    400072: Bone109
+    400074: Bone110
+    400076: Bone111
+    400078: Bone112
+    400080: Bone113
+    400082: Bone114
+    400084: Bone115
+    400086: Bone116
+    400088: Bone117
+    400090: Bone118
+    400092: Bone119
+    400094: Bone120
+    400096: Line004
+    400098: Line005
+    400100: Line006
+    400102: //RootNode
+    400104: Sphere001
+    400106: rock2_LP
+    2300000: Sphere001
+    2300002: rock2_LP
+    3300000: Sphere001
+    3300002: rock2_LP
+    4300000: Line004
+    4300002: Line005
+    4300004: Line006
+    4300006: Sphere001
+    4300008: rock2_LP
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Line004
+    13700002: Line005
+    13700004: Line006
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone073
+        weight: 1
+      - path: Bone073/Bone074
+        weight: 1
+      - path: Bone073/Bone074/Bone075
+        weight: 1
+      - path: Bone073/Bone074/Bone075/Bone076
+        weight: 1
+      - path: Bone073/Bone074/Bone075/Bone076/Bone077
+        weight: 1
+      - path: Bone073/Bone074/Bone075/Bone076/Bone077/Bone078
+        weight: 1
+      - path: Bone073/Bone074/Bone075/Bone076/Bone077/Bone078/Bone079
+        weight: 1
+      - path: Bone073/Bone074/Bone075/Bone076/Bone077/Bone078/Bone079/Bone080
+        weight: 1
+      - path: Bone073/Bone074/Bone075/Bone076/Bone077/Bone078/Bone079/Bone080/Bone081
+        weight: 1
+      - path: Bone073/Bone074/Bone075/Bone076/Bone077/Bone078/Bone079/Bone080/Bone081/Bone082
+        weight: 1
+      - path: Bone073/Bone074/Bone075/Bone076/Bone077/Bone078/Bone079/Bone080/Bone081/Bone082/Bone083
+        weight: 1
+      - path: Bone073/Bone074/Bone075/Bone076/Bone077/Bone078/Bone079/Bone080/Bone081/Bone082/Bone083/Bone084
+        weight: 1
+      - path: Bone073/Bone074/Bone075/Bone076/Bone077/Bone078/Bone079/Bone080/Bone081/Bone082/Bone083/Bone084/Bone085
+        weight: 1
+      - path: Bone073/Bone074/Bone075/Bone076/Bone077/Bone078/Bone079/Bone080/Bone081/Bone082/Bone083/Bone084/Bone085/Bone086
+        weight: 1
+      - path: Bone073/Bone074/Bone075/Bone076/Bone077/Bone078/Bone079/Bone080/Bone081/Bone082/Bone083/Bone084/Bone085/Bone086/Bone087
+        weight: 1
+      - path: Bone073/Bone074/Bone075/Bone076/Bone077/Bone078/Bone079/Bone080/Bone081/Bone082/Bone083/Bone084/Bone085/Bone086/Bone087/Bone088
+        weight: 1
+      - path: Bone089
+        weight: 1
+      - path: Bone089/Bone090
+        weight: 1
+      - path: Bone089/Bone090/Bone091
+        weight: 1
+      - path: Bone089/Bone090/Bone091/Bone092
+        weight: 1
+      - path: Bone089/Bone090/Bone091/Bone092/Bone093
+        weight: 1
+      - path: Bone089/Bone090/Bone091/Bone092/Bone093/Bone094
+        weight: 1
+      - path: Bone089/Bone090/Bone091/Bone092/Bone093/Bone094/Bone095
+        weight: 1
+      - path: Bone089/Bone090/Bone091/Bone092/Bone093/Bone094/Bone095/Bone096
+        weight: 1
+      - path: Bone089/Bone090/Bone091/Bone092/Bone093/Bone094/Bone095/Bone096/Bone097
+        weight: 1
+      - path: Bone089/Bone090/Bone091/Bone092/Bone093/Bone094/Bone095/Bone096/Bone097/Bone098
+        weight: 1
+      - path: Bone089/Bone090/Bone091/Bone092/Bone093/Bone094/Bone095/Bone096/Bone097/Bone098/Bone099
+        weight: 1
+      - path: Bone089/Bone090/Bone091/Bone092/Bone093/Bone094/Bone095/Bone096/Bone097/Bone098/Bone099/Bone100
+        weight: 1
+      - path: Bone089/Bone090/Bone091/Bone092/Bone093/Bone094/Bone095/Bone096/Bone097/Bone098/Bone099/Bone100/Bone101
+        weight: 1
+      - path: Bone089/Bone090/Bone091/Bone092/Bone093/Bone094/Bone095/Bone096/Bone097/Bone098/Bone099/Bone100/Bone101/Bone102
+        weight: 1
+      - path: Bone089/Bone090/Bone091/Bone092/Bone093/Bone094/Bone095/Bone096/Bone097/Bone098/Bone099/Bone100/Bone101/Bone102/Bone103
+        weight: 1
+      - path: Bone089/Bone090/Bone091/Bone092/Bone093/Bone094/Bone095/Bone096/Bone097/Bone098/Bone099/Bone100/Bone101/Bone102/Bone103/Bone104
+        weight: 1
+      - path: Bone105
+        weight: 1
+      - path: Bone105/Bone106
+        weight: 1
+      - path: Bone105/Bone106/Bone107
+        weight: 1
+      - path: Bone105/Bone106/Bone107/Bone108
+        weight: 1
+      - path: Bone105/Bone106/Bone107/Bone108/Bone109
+        weight: 1
+      - path: Bone105/Bone106/Bone107/Bone108/Bone109/Bone110
+        weight: 1
+      - path: Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111
+        weight: 1
+      - path: Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112
+        weight: 1
+      - path: Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113
+        weight: 1
+      - path: Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114
+        weight: 1
+      - path: Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115
+        weight: 1
+      - path: Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116
+        weight: 1
+      - path: Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117
+        weight: 1
+      - path: Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118
+        weight: 1
+      - path: Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118/Bone119
+        weight: 1
+      - path: Bone105/Bone106/Bone107/Bone108/Bone109/Bone110/Bone111/Bone112/Bone113/Bone114/Bone115/Bone116/Bone117/Bone118/Bone119/Bone120
+        weight: 1
+      - path: Line004
+        weight: 1
+      - path: Line005
+        weight: 1
+      - path: Line006
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

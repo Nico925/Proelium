@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1577717129805144}
+  m_IsPrefabParent: 1
+--- !u!1 &1577717129805144
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4732227275388010}
+  - component: {fileID: 114687397847276430}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4732227275388010
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1577717129805144}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114687397847276430
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1577717129805144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50c42beab6737414693040b1f0f6e0b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LevelManagerPrefab: {fileID: 1348505320085036, guid: a170ad38250ff9e41b9a497f135f366d,
+    type: 2}
+  UIManagerPrefab: {fileID: 1053757500129678, guid: 9109566b394cf20479ee9cacfc58010e,
+    type: 2}
+  PlayerManagerPrefab: {fileID: 1830081445071182, guid: b88450fc45a57d04a9bccb066aed1150,
+    type: 2}
+  CoinManagerPrefab: {fileID: 1893460981883836, guid: 0183752bf96b90348b85aec2bf82f2e3,
+    type: 2}
+  AudioManagerPrefab: {fileID: 1430661436070886, guid: 056d6142f48afb74e97dcdb173de4e80,
+    type: 2}
+  DataManagerPrefab: {fileID: 1840109802485920, guid: f5a48c12d31181549b23fa01bce3654e,
+    type: 2}
+  SRManagerPrefab: {fileID: 1802479423604144, guid: 3267f0de12658e94d98d8ea376cd6dc4,
+    type: 2}
+  LoadingControllerPrefab: {fileID: 1530760943470038, guid: c2c556c64f3515f41befeb1c42f8183b,
+    type: 2}
+  ShopRoomPrefab: {fileID: 1802479423604144, guid: 34fba117b8c93b848980b79d143f15ac,
+    type: 2}
+  LevelMng: {fileID: 0}
+  UiMng: {fileID: 0}
+  PlayerMng: {fileID: 0}
+  CoinMng: {fileID: 0}
+  AudioMng: {fileID: 114780806946937844, guid: 056d6142f48afb74e97dcdb173de4e80, type: 2}
+  DataMng: {fileID: 0}
+  SRMng: {fileID: 0}
+  LoadingCtrl: {fileID: 0}
+  ShopRoomMng: {fileID: 0}
+  flowSM: {fileID: 0}
+  LevelScriptableObjs:
+  - {fileID: 11400000, guid: 8f955d3e75a08d34292082349f1986e7, type: 2}
